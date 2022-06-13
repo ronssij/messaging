@@ -1,0 +1,19 @@
+[
+    {
+        "context": "hello",
+        "message": "Welcome to StationFive"
+    },
+    {
+        "context": "hi",
+        "message": "Welcome to StationFive"
+    },
+    {
+        "context": "goodbye",
+        "message": "Thank you, see you around"
+    },
+    {
+        "context": "bye",
+        "message": "Thank you, see you around"
+    }
+]
+
