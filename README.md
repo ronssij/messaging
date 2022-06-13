@@ -17,6 +17,7 @@ A step by step series of examples that tell you how to get a development env run
 * You can serve the application on LAMP/XAMPP/LEMP stack or use its builtin server `php artisan serve`
 * To seed context table data run `php artisan db:seed`
 
+There are sample SQL dump inside the `databse` directory that are prefilled with `context` data and `message` data.
 
 ## Testing
 For testing, Configuration can be found in `.env.testing`
