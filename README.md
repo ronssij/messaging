@@ -20,4 +20,4 @@ A step by step series of examples that tell you how to get a development env run
 
 ## Testing
 For testing, Configuration can be found in `.env.testing`
-* To run the test, run this on your terminal `vendor/bin/phpunit` or `php artisa test`
+* To run the test, run this on your terminal `vendor/bin/phpunit` or `php artisan test`
