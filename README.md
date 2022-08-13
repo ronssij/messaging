@@ -45,6 +45,10 @@ https://github.com/ronssij/messaging/blob/master/database/migrations/2022_06_13_
 https://github.com/ronssij/messaging/blob/master/database/seeders/DatabaseSeeder.php
 https://github.com/ronssij/messaging/blob/master/resources/json/contexts.json
 
+Unit testing:
+
+https://github.com/ronssij/messaging/blob/master/tests/Feature/Message/StoreTest.php
+
 ## Testing
 For testing, Configuration can be found in `.env.testing`
 * To run the test, run this on your terminal `vendor/bin/phpunit` or `php artisan test`
