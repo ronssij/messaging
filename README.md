@@ -49,6 +49,13 @@ Unit testing:
 
 https://github.com/ronssij/messaging/blob/master/tests/Feature/Message/StoreTest.php
 
+Routes:
+https://github.com/ronssij/messaging/blob/master/routes/api.php
+
+Sample API execution on postman.
+![messaging](https://user-images.githubusercontent.com/24932380/184471113-2aeaf144-1155-4cbf-8619-0d63ab49aa98.gif)
+
+
 ## Testing
 For testing, Configuration can be found in `.env.testing`
 * To run the test, run this on your terminal `vendor/bin/phpunit` or `php artisan test`
