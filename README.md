@@ -19,6 +19,9 @@ A step by step series of examples that tell you how to get a development env run
 
 There are sample SQL dump inside the `databse` directory that are prefilled with `context` data and `message` data.
 
+## Key directory/files to look for.
+(https://github.com/ronssij/messaging/tree/master/app/Actions)[https://github.com/ronssij/messaging/tree/master/app/Actions]
+
 ## Testing
 For testing, Configuration can be found in `.env.testing`
 * To run the test, run this on your terminal `vendor/bin/phpunit` or `php artisan test`
